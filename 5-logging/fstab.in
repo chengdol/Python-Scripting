@@ -1,0 +1,6 @@
+# /etc/fstab: static file system information.
+#
+#
+# <file system> <mount point>   <type>  <options>       <dump>  <pass>
+/dev/sda1 /               ext4    errors=remount-ro 0     1
+/dev/sda5 none            swap    sw              0       0
