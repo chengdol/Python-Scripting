@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-# Playing with file descriptors
+## Playing with file descriptors
+## previously using write(), wirtelines() functions
 
 import sys
 
